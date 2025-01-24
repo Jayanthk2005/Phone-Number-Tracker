@@ -36,14 +36,17 @@ Run the application:
 
 python app.py 
 
+                                                  Json File 
+                                                  
+![image alt](https://github.com/Jayanthk2005/Phone-Number-Tracker/blob/70624d6837924b8be0e8f0e95c4076bbce8b279a/screenshot/Screenshot%202025-01-24%20200035.png)
 
-![image alt](
+                                                  Python Program
+                                                  
+![image alt](https://github.com/Jayanthk2005/Phone-Number-Tracker/blob/70624d6837924b8be0e8f0e95c4076bbce8b279a/screenshot/Screenshot%202025-01-24%20200049.png)
+
+                                                  Output
+                                                  
+![image alt](https://github.com/Jayanthk2005/Phone-Number-Tracker/blob/70624d6837924b8be0e8f0e95c4076bbce8b279a/screenshot/Screenshot%202025-01-24%20200124.png)
 
 
-![image alt](
-
-
-![image alt](
-
-
-![image alt](
+![image alt](https://github.com/Jayanthk2005/Phone-Number-Tracker/blob/70624d6837924b8be0e8f0e95c4076bbce8b279a/screenshot/Screenshot%202025-01-24%20200225.png)
